@@ -1,0 +1,119 @@
+{
+  "previa": "Novidades da nossa investida Unbox, vagas afirmativas e muito mais. ",
+  "artigoDestaque": {
+    "numeroEdicao": "14",
+    "mensagemSpam": "Não queremos ir para o spam! =) selecione este email como “confiável” ou mova-o para a Caixa de Entrada.",
+    "img": "./img/Imagem_Destaque_N14.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Uma nova forma de construir startups",
+    "texto": [
+      "Maio foi marcado por importantes eventos, e as trocas que eles proporcionam são sempre sinônimo de muitos insights para a nossa CEO, Lícia Souza! Atuar em uma empresa que lida ao mesmo tempo com <b>investimentos de risco e impacto</b> cria oportunidades de fazer conexões antes incomuns, mas cada vez mais urgentes",
+      "Ela fala um pouco sobre essa perspectiva em um novo artigo no Linkedin. Qual é a relação entre os movimentos do <b>Ambição 2030</b>, lançado pelo Pacto Global da ONU, e o <b>avanço do ecossistema de inovação brasileiro</b>? Ela contou tudo por lá!"      
+    ],
+    "linkBotao": "https://www.linkedin.com/pulse/uma-nova-forma-de-construir-startups-l%25C3%25ADcia-souza/?trackingId=13TpYCIrRCC3D4y5M9wXkQ%3D%3D",
+    "botao": "Clique para ler"
+  },
+  "compartilhe": {
+    "texto": [
+      "Está aproveitando a leitura?",
+      "Que tal compartilhar essa edição da WE Impact News com outras empreendedoras e empreendedores da sua rede de contatos? 😉"
+    ],
+    "linkBotao": "https://api.whatsapp.com/send?text=Voc%C3%AA%20j%C3%A1%20conhece%20a%20newsletter%20da%20WE%20Impact,%20venture%20builder%20dedicada%20a%20startups%20lideradas%20por%20mulheres?%20Eu%20amo%20acompanhar%20os%20conte%C3%BAdos%20e%20dicas%20sobre%20equidade%20de%20g%C3%AAnero,%20lideran%C3%A7a%20feminina%20e%20diversidade%20no%20ecossistema!%20Acredito%20que%20voc%C3%AA%20vai%20gostar%20tamb%C3%A9m,%20esse%20%C3%A9%20o%20link%20para%20assinar:%20https://startups.weimpact.tech/we-impact-news",
+    "botao": "Compartilhar no WhatsApp!"
+  },
+  "weImpactNetwork": {
+    "tituloSecao": "#WIN – WE Impact Network",
+    "titulo": "Onde startups e grandes empresas se encontram",
+    "img": "./img/Foto_WIN_N14.png",
+    "alt": "imagem ilustrativa",
+    "linkedinAutora": "",
+    "nomeAutora": "Amanda Andreone",
+    "descricaoAutora": "investidora no BR Angels",
+    "texto": [
+      "Você sabe o que significa <b>open innovation</b>? Essa prática é cada vez mais comum entre grandes empresas que precisam se manter competitivas na <b>nova economia</b>.",
+      "Nesta terça, publicamos uma entrevista super bacana com Armandina Formoso, Head do Innovation Hub do BRQ Digital Solutions. Ela explicou sua visão sobre o conceito, compartilhou dicas de <b>como implementar essa estratégia</b> nas empresas, e contou quais considera as suas <b>principais vantagens e desafios</b>.",
+      "Quer um spoiler? Tem tudo a ver com <b>colaboração</b>!"
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://www.weimpact.tech/blog-inovacao-aberta-desafios-beneficios/",
+    "botao": "Leia em primeira mão clicando aqui"
+  },
+  "diversidadeNaPratica": {
+    "tituloSecao": "#DiversidadenaPrática",
+    "titulo": "Nós apoiamos o Elas Lideram 2030",
+    "img": "./img/Imagem_DiversidadenaPratica_N14.png",
+    "alt": "imagem ilustrativa",
+    "texto": [
+      "A WE Impact é apoiadora do <a href='https://www.pactoglobal.org.br/movimento/elaslideram2030/' target='_blank'>Elas Lideram 2030</a>, movimento da Rede Brasil Pacto Global com a ambição de ter <b>1500</b> empresas comprometidas com a <b>paridade de gênero</b> na alta liderança até 2030. A meta é que cada uma alcance <b>30% de mulheres na alta liderança</b> até 2025, chegando a 50% até 2030.",
+      "Para isso, algumas estratégias são contar com o engajamento da alta liderança, promover capacitações e visibilidade das instituições apoiadoras, além do compromisso com Princípios de Empoderamento das Mulheres (WEPs) - saiba como aplicá-los nas startups clicando <a href='https://startups.weimpact.tech/weps-para-startups' target='_blank'>aqui</a>. Que tal seguir esse exemplo e aderir ao movimento?"
+    ],
+    "tituloLista": "título lista JSON",
+    "textoLista": ["texto lista JSON", "texto lista JSON"],
+    "linkBotao": "https://forbes.com.br/carreira/2021/12/nova-diversidade-empresas-buscam-profissionais-40/",
+    "botao": "Fonte: Forbes"
+  },
+  "dicaDaCEO": {
+    "tituloSecao": "#DicadaCEO",
+    "titulo": "Título JSON",
+    "img": "./img/Foto_DicadaCEO_N14.png",
+    "alt": "imagem ilustrativa",
+    "texto": [
+     "“Uma das habilidades que desenvolvi na minha jornada foi aprender a estabelecer uma rotina que me ajuda a crescer como pessoa e empreendedora. O planejamento e a organização ajudam muito a trabalhar sem sobrecarga. Se não conseguimos priorizar o mais importante no dia a dia, ficamos somente respondendo às urgências, sem tempo para fazer aquilo que de fato impactará o nosso dia.",
+    "Gosto muito de um provérbio chinês que diz assim: “Se você não mudar a direção, terminará exatamente onde começou”. Agir de forma coerente e intencional muda a direção e traz um norte para direcionar nosso foco e alcançar cada meta, até chegar ao objetivo final.",
+    "Produtividade tem mais a ver com a qualidade do que com quantidade de tarefas. Para construir uma rotina saudável, é necessário saber que somos seres sistêmicos, com necessidades pessoais e profissionais que precisam estar em equilíbrio.”"
+    ],
+    "linkedinAutora": "",
+    "nomeAutora": "Victoria Prado",
+    "descricaoAutora": "fundadora da Plann to Go"
+  },
+  "elasImpactam": {
+    "tituloSecao": "#ElasImpactam",
+    "img": "./img/Imagem_ElasImpactam_N14.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Desafios das mulheres em tech",
+    "texto": [
+      "Em seu primeiro dia de aula no curso de informática, Cynthia Zanoni era uma das 5 mulheres em uma turma de 60 pessoas. Depois de um entre os inúmeros episódios de machismo como este que enfrentou durante sua trajetória, ele teve a ideia de criar a ONG WoMakersCode, <b>maior comunidade de mulheres na tecnologia da América Latina</b>.",
+      "Conversamos com a especialista em tecnologia, que é também Technology Strategist da Microsoft e mentora WE Impact, sobre o poder desse tipo de organização para carreiras femininas nessa área."
+    ],
+    "textoLista": "texto lista JSON",
+    "linkBotao": "https://www.weimpact.tech/blog-comunidades-de-mulheres-na-tecnologia",
+    "botao": "Ler entrevista"
+  },
+  "naMidia": {
+    "tituloSecao": "#NaMídia",
+    "img": "./img/NasMidias_N14.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Pontue na Bett Educação",
+    "texto": ["A Microsoft apresentou soluções para transformar o cenário da educação na Bett Brasil 2022, e uma delas foi a da startup Pontue, uma #investidaWEImpact. Apoiada pela Microsoft for Startups, a edutech apresentou sua plataforma de aprendizagem em um dos maiores eventos da área."],
+    "linkBotao": "https://news.microsoft.com/pt-br/microsoft-apresenta-solucoes-para-transformar-o-cenario-da-educacao-na-bett-brasil-2022/",
+    "botao": "Ler notícia"
+  },
+  "nasRedes": {
+    "tituloSecao": "#NasRedes",
+    "img": "./img/NaRede_N14.png",
+    "alt": "imagem ilustrativa",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "Clique para ver o post que compartilhamos nas nossas redes apresentando a nossa <b>nova mentora</b>! Ela se une à rede de mentoras e mentores que compõem a <b>#WEImpactNetwork</b> para impulsionar as nossas startups investidas. Spoiler: ela é especialista nos pilares <b>tecnologia, time, produto e receita</b>.",
+    "linkBotao": "https://www.instagram.com/p/CdOszeXF3it/?igshid=YmMyMTA2M2Y=",
+    "botao": "Clique para conferir"
+  },
+  "saveTheDate": {
+    "tituloSecao": "#WEImpactIndica",
+    "titulo": "Perdeu esse conteúdo?",
+    "texto": "ONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSONtexto JSON",
+    "linkBotao": "https://www.sebrae.com.br/sites/PortalSebrae/startupday2021/home",
+    "botao": "Veja a programação completa"
+  },
+  "footer": {
+    "chamada": "Recebeu este email de alguém?",
+    "linkBotao": "https://startups.weimpact.tech/we-impact-news?utm_source=Newsletter&utm_medium=email&utm_campaign=newsletter",
+    "botao": "Assine a WE Impact News",
+    "linkLinkedin": "https://www.linkedin.com/company/weimpact-tech",
+    "imgLinkedin": "https://weimpact-tech.github.io/newsletter-4/img/linkedin-icon.png",
+    "altLinkedin": "Linkedin",
+    "linkInstagram": "https://www.instagram.com/weimpact.tech/",
+    "imgInstagram": "https://weimpact-tech.github.io/newsletter-4/img/insta-icon.png",
+    "altInstagram": "Instagram"
+  }
+}
